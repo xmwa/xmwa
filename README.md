@@ -23,10 +23,10 @@ Before the PhD I spent three years as a software engineer in industry, where I b
 
 ### Selected work
 
-- **KuanNet**, *IEEE Transactions on VLSI Systems*, 2026 (first author). [Paper](https://doi.org/10.1109/TVLSI.2026.3681746) · [Project page](https://www.wangxm.com/research/KuanNet/)
-- **R2CTA**, *IEEE ISQED*, 2025 (first author). [Paper](https://ieeexplore.ieee.org/document/11014312)
+- **Finetune Chiplet Design Floorplan via KuanNet.** *IEEE Transactions on VLSI Systems*, 2026 (first author). [Paper](https://doi.org/10.1109/TVLSI.2026.3681746) · [Project page](https://www.wangxm.com/research/KuanNet/)
+- **R2CTA: Reinforcement Learning and Reservoir Computing based Chiplets TSV Assignment.** *IEEE ISQED*, 2025 (first author). [Paper](https://doi.org/10.1109/ISQED65160.2025.11014312)
 - **Train a Transformer on Silicon**: a build series that takes a SystemVerilog GPT decoder all the way to a 45 nm layout. [Part 0](https://blog.wangxm.com/2026/07/train-a-transformer-on-silicon-0-the-genesis/)
-- Two Chinese invention patents as co-inventor, CN116993240A and CN116967139A. [PDFs](https://www.wangxm.com/patents/)
+- Two Chinese invention patents as co-inventor: [CN116993240A](https://www.wangxm.com/patents/CN202210862658_FullTextImage.pdf) and [CN116967139A](https://www.wangxm.com/patents/CN202211085644_FullTextImage.pdf) (PDF).
 
 ### Open source
 
