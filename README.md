@@ -19,7 +19,7 @@
 - **Chiplet floorplanning and TSV assignment** using reinforcement learning and reservoir computing.
 - **Mixed-signal circuits for on-chip transformer training.**
 
-Before the PhD I spent three years as a software engineer in industry, where I built a real-time deep RL controller for a live parcel sorting line. Before that I was a research associate at the HKU Power Electronics Lab.
+Before the PhD I spent three years as a software engineer in industry, where I built a real-time deep RL controller for a live parcel sorting line.
 
 ### Selected work
 
